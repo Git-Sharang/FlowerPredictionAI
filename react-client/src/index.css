@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+Body {
+  background-color:rgb(214, 165, 40);
+  font-family: "Montserrat";
+}
+
+Body a:hover {
+  color: rgb(214, 165, 40);
+  text-decoration: none;
+  background-color: black;
+}
+
+.allPage{
+  width: 950px;
+  margin: auto;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+Body h1{
+  color: rgb(214, 165, 40);
+  text-align: center;
+  font-size: 48px;
+}
+
+.footer{
+  margin-top:inherit;
+  text-align: center;
+  width: 910px;
+  margin-left: -10px;
+  background-color: white;
+  color: rgb(214, 165, 40);
+  padding: 30px;
+}
+
+.input {
+  width: 600px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: black;
+  border-radius: 25px;
+}
+
+.input button {
+  margin-top: 10px;
+  text-align: center;
+  width: 240px;
+}
+.form {
+  width: 400px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 10px;
+  text-align: right;
+  background-color: black;
+}
+
+.fromGroup {
+  padding: 10px;
+  
+}
+
+.formCell{
+  width:240px;
+  text-align: center;
+}
+
+.output {
+  width: 380px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: black;
+  border-radius: 5px;
+  align-items: center;
+  color: black;
+}
+
+Body button {
+  text-decoration: none;
+  background-color: white;
+  border-radius: 3px;
+  padding: 7px 10px;
+  color: black;
+  transition: .35s ease-in-out;
+  font-family: "Montserrat";
+}
+
+Body button:hover{
+  background-color: rgb(214, 165, 40);
+  color: #122;
+}
