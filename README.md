@@ -1,4 +1,4 @@
-# Flower Prediction AI
+# Flower Predictor AI
 
 The MERN application with AI to predict the flower species
 
